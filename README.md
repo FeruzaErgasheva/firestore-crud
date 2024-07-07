@@ -1,6 +1,7 @@
 # firebase
 
 A new Flutter project.
+Medium link: [https://medium.com/@feruzabonuergasheva9/crud-with-firebase-80243793a36a]
 
 ## Getting Started
 
